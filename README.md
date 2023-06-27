@@ -34,3 +34,10 @@
 - Display the companies which supply products whose cost is above 100.
 - Create a combined list to display customers and supplier lists as per the below format.
 - Display the customer list who belongs to the same city and country arranged in-country-wise.
+
+
+### Part D: Challenge
+- The company sells the product at different discounted rates. Refer actual product price in the product table and the selling price in the order item table. Write a query to find out the total amount saved in each order then display the orders from highest to lowest amount saved.
+- Mr. Kavin wants to become a supplier. He got the database of "Richard'sSupply" for reference. Help him to pick: a. List a few products that he should choose based on demand. b. Who will be the competitors for him for the products suggested in the above questions?
+- Create a combined list to display customer's and suppliers details considering the followingcriteria●Both customer and supplier belong to the same country●Customer that does not have a supplier in their country●Supplier who does not have the customer in their country
+- Every supplier supplies specific products to the customers. Create a view of suppliers and total sales made by their products and write a query on this view to find out the top 2 suppliers (using Windows function RANK() in each country by total sales done by the products
